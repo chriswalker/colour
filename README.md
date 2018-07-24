@@ -1,4 +1,6 @@
 # colour
+[![CircleCI](https://circleci.com/gh/chriswalker/colour/tree/master.svg?style=svg)](https://circleci.com/gh/chriswalker/colour/tree/master)
+
 A simple library for emitting colour escape sequences in command-line apps. tested on MacOS, should work on Linux. Does not support Windows currently.
 
 ## Installation
